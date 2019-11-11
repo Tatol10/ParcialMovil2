@@ -1,0 +1,11 @@
+activate : Disparar
+damage : Perder vida
+destroyed : Matar enemigo 
+draw : Agarrar ammo
+duellose : musica Game over
+gainlp : Agarrar vida
+menu : musica Menu
+rockpapers : musica Win 
+shuffle : regargar 
+song-advan : musica in game
+specialsu : sonido enemigos
